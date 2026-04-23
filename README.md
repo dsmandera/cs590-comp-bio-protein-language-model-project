@@ -16,4 +16,4 @@ All files (main.tex, images, bibliography, etc.) needed to generate the report P
 
 ## Note on compute:
 
-While using a CPU will work to run this notebook, it should run much faster on GPU. The most compute-intensive step of this code is embedding extraction, which takes approximately 1 minute and 22 seconds for 3000 samples using a T4 GPU. By contrast, it takes approximately _____ for 3000 samples using CPU.
+While using a CPU will work to run this notebook, it should run much faster on GPU. The most compute-intensive step of this code is embedding extraction, which takes approximately 1 minute and 22 seconds for 3000 samples using a T4 GPU. By contrast, the same task takes about 30 times longer using CPU.
