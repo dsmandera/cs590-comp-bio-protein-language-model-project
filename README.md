@@ -1,5 +1,5 @@
-# CS 590 Computational Biology Seminar Final Project: Probing Secondary Structure and Intrinsic Disorder in Pretrained Protein Language Model Embeddings
-#### dsmandera/cs590-comp-bio-protein-language-model-project
+# Probing Secondary Structure and Intrinsic Disorder in Pretrained Protein Language Model Embeddings
+## CS 590 Computational Biology Seminar Final Project
 
 This project seeks to understand how two key biophysical properties—secondary structure and disorder—are encoded in the embeddings of protein language models, with ESM-2 used for this study. This repo contains all necessary code and data to reproduce the results of this project.
 
